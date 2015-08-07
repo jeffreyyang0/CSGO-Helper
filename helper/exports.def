@@ -1,0 +1,5 @@
+LIBRARY helper
+EXPORTS
+	MouseHookLL		@1
+	KeybdHookLL		@2
+	InitThread		@3

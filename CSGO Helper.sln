@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSGO Helper", "CSGO Helper\CSGO Helper.vcxproj", "{199F533C-9E5D-42BF-A2B7-F5F67F6EF8FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helper", "helper\helper.vcxproj", "{46C2108A-8C6C-4509-B9A6-88373E479F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199F533C-9E5D-42BF-A2B7-F5F67F6EF8FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{199F533C-9E5D-42BF-A2B7-F5F67F6EF8FA}.Debug|Win32.Build.0 = Debug|Win32
+		{199F533C-9E5D-42BF-A2B7-F5F67F6EF8FA}.Release|Win32.ActiveCfg = Release|Win32
+		{199F533C-9E5D-42BF-A2B7-F5F67F6EF8FA}.Release|Win32.Build.0 = Release|Win32
+		{46C2108A-8C6C-4509-B9A6-88373E479F19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46C2108A-8C6C-4509-B9A6-88373E479F19}.Debug|Win32.Build.0 = Debug|Win32
+		{46C2108A-8C6C-4509-B9A6-88373E479F19}.Release|Win32.ActiveCfg = Release|Win32
+		{46C2108A-8C6C-4509-B9A6-88373E479F19}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
